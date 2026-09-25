@@ -1,33 +1,14 @@
 # 👋 Hi, I'm Archisman Kar | Founder @ Xpert0 Industries
 
-<div align="center">
-
-![Xpert0 Industries Logo](logo.svg)
-
-**🚀 Building the Future of Technology**
-
-[![Website](https://img.shields.io/badge/🌐_Website-xpert0.in-blue?style=for-the-badge)](https://xpert0.in)
-[![Organization](https://img.shields.io/badge/🏢_Organization-Xpert0_Industries-green?style=for-the-badge)](https://github.com/Xpert0-Industries)
-[![Email](https://img.shields.io/badge/📧_Contact-0@dev.xpert0.in-red?style=for-the-badge)](mailto:archisman.kar.cse@proton.me)
-
-</div>
-
 ---
 
 ## 💫 About Me
-
-🎯 **Founder** of **[Xpert0 Industries](https://xpert0.in)** - Building a technology company focused on innovation and excellence  
+ 
 🔭 **Currently Working On**: Scaling Xpert0 Industries and developing cutting-edge technology solutions  
-🌱 **Learning**: Advanced Java development, AI/ML technologies, and enterprise architecture  
+🌱 **Learning**: Advanced Java development and enterprise architecture  
 👯 **Collaboration**: Open to partnerships in Java, C/C++, Android development, Linux systems, and Backend technologies  
 🤝 **Seeking Help With**: Frontend development and UI/UX design
 💡 **Mission**: Transforming ideas into innovative technological solutions
-
-### 🏢 Xpert0 Industries
-- **Official Website**: [xpert0.in](https://xpert0.in)
-- **GitHub Organization**: [@Xpert0-Industries](https://github.com/Xpert0-Industries)
-- **Industry**: Technology & Software Development
-- **Focus**: Innovation, Software Solutions, and Tech Consulting
 
 ---
 
@@ -44,6 +25,7 @@
 ## 💻 Technology Stack & Skills
 
 ### Programming Languages
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -70,34 +52,15 @@
 
 ## 📊 GitHub Analytics & Performance
 
+[![](https://komarev.com/ghpvc/?username=voidctx&icon=0)](https://visitcount.itsvg.in)
+
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xpert0&theme=github_dark&hide_border=false&include_all_commits=false&count_private=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=xpert0&theme=github-dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xpert0&theme=github_dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![Streak](https://streak-stats.demolab.com/?user=voidctx&theme=github_dark&hide_border=false)<br/>
+![Top-Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=voidctx&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
----
-
-## 📈 Professional Focus Areas
-
-```mermaid
-graph TD
-    A[Xpert0 Industries] --> B[Software Development]
-    A --> C[Technology Consulting]
-    A --> D[Innovation Research]
-    A --> E[Team Leadership]
-    
-    B --> F[Java Applications]
-    B --> G[Backend Systems]
-    B --> H[Linux Solutions]
-    
-    C --> I[Enterprise Architecture]
-    C --> J[Tech Strategy]
-```
 ---
 
 ## 💰 Support & Donations
@@ -119,11 +82,3 @@ If you find my work valuable and want to support the mission of innovation:
 **Reach out**: [archisman.kar.cse@proton.me](mailto:archisman.kar.cse@proton.me)
 
 ---
-
-<div align="center">
-
-**"Innovation distinguishes between a leader and a follower."** - Steve Jobs
-
-*Building tomorrow's technology today at [Xpert0 Industries](https://github.com/Xpert0-Industries)*
-
-</div>
