@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Archisman Kar | Founder @ Xpert0 Industries
+# 👋 Hi, I'm Archisman Kar
 
 ---
 
@@ -8,17 +8,14 @@
 🌱 **Learning**: Advanced Java development and enterprise architecture  
 👯 **Collaboration**: Open to partnerships in Java, C/C++, Android development, Linux systems, and Backend technologies  
 🤝 **Seeking Help With**: Frontend development and UI/UX design
-💡 **Mission**: Transforming ideas into innovative technological solutions
 
 ---
 
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/archisman-kar-cse)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ak.xpert0)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/xpert0)
-[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/xpert0)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:archisman.kar.cse@proton.me)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.voidctx@proton.me)
 
 ---
 
@@ -79,6 +76,6 @@ If you find my work valuable and want to support the mission of innovation:
 - 🤝 **Technical collaboration**
 - 💡 **Project consultation**
 
-**Reach out**: [archisman.kar.cse@proton.me](mailto:archisman.kar.cse@proton.me)
+**Reach out**: [dev.voidctx@proton.me](mailto:dev.voidctx@proton.me)
 
 ---
