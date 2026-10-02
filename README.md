@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Archisman Kar
 
----
-
 ## 💫 About Me
  
 🔭 **Currently Working On**: Scaling Xpert0 Industries and developing cutting-edge technology solutions  
