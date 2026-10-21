@@ -37,14 +37,9 @@
 
 ---
 
-## 📊 GitHub Analytics & Performance
+## 📊 GitHub Analytics
 
-<div align="center">
-
-![Streak](https://streak-stats.demolab.com/?user=voidctx&theme=github_dark&hide_border=false)<br/>
-![Top-Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=voidctx&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
+![Streak](https://streak-stats.demolab.com/?user=voidctx&theme=github_dark&hide_border=false)
 
 ---
 
